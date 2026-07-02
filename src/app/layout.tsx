@@ -18,7 +18,7 @@ export default function RootLayout({
       <head>
         <script
           async
-          src="https://plausible-production-78b3.up.railway.app/js/pa-FkymWO7gixkQ6_9ux01Qn.js"
+          src="https://plausible-production-78b3.up.railway.app/js/pa-0UNKvm2xqDLJ3uRNf69-o.js"
         />
         <script
           dangerouslySetInnerHTML={{
